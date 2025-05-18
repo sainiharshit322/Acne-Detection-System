@@ -1,0 +1,5 @@
+steps:
+  - name: Echo message
+    run: echo "Hello from CI"
+  - name: List files
+    run: ls -la
