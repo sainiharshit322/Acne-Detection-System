@@ -1,5 +1,9 @@
 streamlit
-tensorflow
+streamlit-authenticator
 numpy
-Pillow
+pandas
+scikit-learn
 matplotlib
+seaborn
+plotly
+tensorflow
