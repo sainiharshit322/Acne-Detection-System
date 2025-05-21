@@ -10,7 +10,7 @@ This project aims to develop a **deep learning model** capable of analyzing faci
 
 The **Acne Analysis Model** leverages **EfficientNetB0**, a state-of-the-art deep learning architecture, to classify facial images into five categories of acne conditions. The model is trained on a custom dataset and incorporates advanced techniques like **data augmentation**, **class weights**, and **dropout regularization** to ensure robust performance. Additionally, the project includes a **confusion matrix** and **F1-score analysis** to evaluate model performance.
 
-check out the live demo 🚀 https://acne-analysis-model-adtzbokgpsv8gcnv6zhark.streamlit.app/](https://acne-detection-system-m9p84vby8fysxzuxjrgmro.streamlit.app/
+check out the live demo 🚀 https://acne-detection-system-m9p84vby8fysxzuxjrgmro.streamlit.app/
 
 ---
 
